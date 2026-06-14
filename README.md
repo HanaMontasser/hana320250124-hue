@@ -8,6 +8,14 @@
 
 ## About Me
 
+## Featured Projects
+
+### University Registration System
+Java client-server application for university course registration using socket programming, multi-threading, file handling, and OOP concepts.
+
+### Hotel Service Simulation System
+C++ simulation system for hotel operations featuring queue management, customer prioritization, statistics tracking, and interactive GUI visualization.
+
 - 🤖 Interested in Artificial Intelligence
 - 📊 Interested in Data Science
 - 💻 Interested in Software Engineering
