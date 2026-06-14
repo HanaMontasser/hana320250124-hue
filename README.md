@@ -1,5 +1,9 @@
 # Hi, I'm Hana 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hana320250124-hue&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hana320250124-hue&layout=compact)
+
 🎓 Computer Science Student at E-JUST
 
 ## About Me
