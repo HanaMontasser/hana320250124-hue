@@ -3,20 +3,31 @@
 🎓 Computer Science Student at E-JUST
 
 ## About Me
-- Interested in Artificial Intelligence
-- Interested in Data Science
-- Interested in Software Engineering
+
+- 🤖 Interested in Artificial Intelligence
+- 📊 Interested in Data Science
+- 💻 Interested in Software Engineering
+- 🌱 Currently learning Data Structures & Algorithms
 
 ## Programming Languages
+
 - Java
 - Python
 - C++
 
-## Currently Learning
-- Data Structures
-- Algorithms
-- Object Oriented Programming
+## Tools & Technologies
+
+- Git
+- GitHub
+- IntelliJ IDEA
+- VS Code
+
+## Current Projects
+
+- University Registration System (Java)
+- Data Structures Assignments
+- Sorting Algorithms Implementations
 
 ## Connect With Me
-- LinkedIn
-- GitHub
+
+- LinkedIn: www.linkedin.com/in/hana-montasser
